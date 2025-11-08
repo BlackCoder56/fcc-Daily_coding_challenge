@@ -6,7 +6,7 @@ In this challenge, you are given a string and need to determine if it fits in a 
 "invalid post" if it's too long to fit within either limit.
 """
 
-# ** start of main.py **
+# ** start of character_limit.py **
 
 def can_post(message):
     count = 0
@@ -22,7 +22,7 @@ def can_post(message):
 
     return message
 
-# ** end of main.py **
+# ** end of character_limit.py **
 
 
 # Tests
